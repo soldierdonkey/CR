@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.base {
+    position : absolute;
+}
+#main {
+    background-image: url(./ETCimages/ETCBackground.png);
+    background-size: contain;
+    position: absolute;
+    width: 1300px;
+    height: 700px;
+}
+.C1 {
+    background-image: url(./ETCimages/Complex1.png);
+    background-size: 200px 400px;
+    width: 200px;
+    height: 400px;
+}
+.C2 {
+    background-image: url(./ETCimages/Complex2.png);
+    background-size: 200px 400px;
+    width: 200px;
+    height: 400px;
+}
+.C3 {
+    background-image: url(./ETCimages/Complex3.png);
+    background-size: 300px 380px;
+    width: 300px;
+    height: 380px;
+}
+.C4 {
+    background-image: url(./ETCimages/Complex4.png);
+    background-size: 200px 400px;
+    width: 200px;
+    height: 400px;
+}
+.C5 {
+    background-image: url(./ETCimages/Complex5.png);
+    background-size: 200px 360px;
+    width: 200px;
+    height: 360px;
+}

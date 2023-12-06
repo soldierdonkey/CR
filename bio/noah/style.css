@@ -1,0 +1,93 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.base {
+    position : absolute;
+}
+#main {
+    position: absolute;
+    width: 1300px;
+    height: 700px;
+}
+.sprite {
+    image-rendering: pixelated;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.text {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    word-break: normal;
+}
+.GLUCOSE {
+    background-image: url(./images/GLUCOSE.png);
+    width: 256px;
+    height: 256px;
+}
+.ATP {
+    background-image: url(./images/ATP.png);
+    width: 128px;
+    height: 64px;
+}
+.ADP {
+    background-image: url(./images/ADP.png);
+    width: 128px;
+    height: 64px;
+}
+.P {
+    background-image: url(./images/P.png);
+    width: 32px;
+    height: 32px;
+}
+.NAD {
+    background-image: url(./images/NAD+.png);
+    width: 128px;
+    height: 32px;
+}
+.NADH {
+    background-image: url(./images/NADH.png);
+    width: 128px;
+    height: 32px;
+}
+.PYRUVATE {
+    background-image: url(./images/PYRUVATE.png);
+    width: 64px;
+    height: 192px;
+}
+.H {
+    background-image: url(./images/H.png);
+    width: 32px;
+    height: 16px;
+}
+.ACETYL {
+    background-image: url(./images/ACETYL.png);
+    width: 64px;
+    height: 128px;
+}
+.CO2 {
+    background-image: url(./images/CO2.png);
+    width: 96px;
+    height: 32px;
+}
+.COA {
+    background-image: url(./images/COA.png);
+    width: 64px;
+    height: 128px;
+}
+.ACETYL-COA {
+    background-image: url(./images/ACETYL-COA.png);
+    width: 64px;
+    height: 256px;
+}
+.CONTINUE {
+    background-image: url(./images/CONTINUE.png);
+    width: 512px;
+    height: 256px;
+}
+.ECONTINUE {
+    background-image: url(./images/ECONTINUE.png);
+    width: 512px;
+    height: 256px;
+}
