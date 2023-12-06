@@ -1,0 +1,98 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.base {
+    position : absolute;
+}
+#main {
+    background-image: url(./ETCimages/ETCBackground.png);
+    background-size: contain;
+    position: absolute;
+    width: 1300px;
+    height: 700px;
+}
+.next {
+    width: 136px;
+    height: 118px;
+}
+.ttr {
+    width: 200px;
+    height: 185px;
+}
+.glass {
+    width: 150px;
+    height: 125px;
+}
+.leg {
+    background-image: url(./images/leg.png);
+    background-size: 100px 200px;
+    width: 100px;
+    height: 200px;
+}
+.C0 {
+    background-image: url(./images/0.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C1 {
+    background-image: url(./images/1.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C2 {
+    background-image: url(./images/2.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C3 {
+    background-image: url(./images/3.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C4 {
+    background-image: url(./images/4.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C5 {
+    background-image: url(./images/5.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C6 {
+    background-image: url(./images/6.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C7 {
+    background-image: url(./images/7.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C8 {
+    background-image: url(./images/8.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C9 {
+    background-image: url(./images/9.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
+.C10 {
+    background-image: url(./images/10.png);
+    background-size: 1300px 700px;
+    width: 1300px;
+    height: 700px;
+}
