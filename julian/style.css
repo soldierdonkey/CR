@@ -26,9 +26,9 @@ html, body {
 }
 .C3 {
     background-image: url(./ETCimages/Complex3.png);
-    background-size: 300px 380px;
+    background-size: 300px 300px;
     width: 300px;
-    height: 380px;
+    height: 300px;
 }
 .C4 {
     background-image: url(./ETCimages/Complex4.png);
@@ -38,7 +38,7 @@ html, body {
 }
 .C5 {
     background-image: url(./ETCimages/Complex5.png);
-    background-size: 200px 360px;
-    width: 200px;
+    background-size: 180px 360px;
+    width: 180px;
     height: 360px;
 }
